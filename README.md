@@ -15,10 +15,10 @@ En lo que refiere a la producción académica, esta información ha sido extraí
 ___
 |**Categoría**| **Elemento**                  | **Descripción**                                                                                                                         |
 |-------|---------------------------|------------------------------------------------------------------------------------------
-|**Principal**| **Nodos Azules**          | Docentes ordinarios principales, nombrados por un periodo de 7 años. Pueden integrar órganos de gobierno y comisiones universitarias. Suelen ser los de mayor antigüedad.  |
-|**Asociado**| **Nodos verdes**          | Docentes asociados ordinarios, nombrados por un periodo de 5 años. Pueden integrar órganos de gobierno y comisiones universitarias. |
-|**Auxiliar**| **Nodos Rojos**           |  Docentes auxiliares ordinarios, nombrados por un periodo de 3 años. Pueden integrar órganos de gobierno y comisiones universitarias.  |
-|**Contratado**| **Nodos Amarillos** | Los profesores contratados mantienen un vínculo laboral con la PUCP, en las condiciones que fija el respectivo contrato. Durante el período de su contratación tienen derecho a participar en los concursos para plazas de profesor ordinario que la Universidad convoque periódicamente |
+|**Principal**| **Nodos Azules 🔵**          | Docentes ordinarios principales, nombrados por un periodo de 7 años. Pueden integrar órganos de gobierno y comisiones universitarias. Suelen ser los de mayor antigüedad.  |
+|**Asociado**| **Nodos verdes 🟢**          | Docentes asociados ordinarios, nombrados por un periodo de 5 años. Pueden integrar órganos de gobierno y comisiones universitarias. |
+|**Auxiliar**| **Nodos Rojos 🔴**           |  Docentes auxiliares ordinarios, nombrados por un periodo de 3 años. Pueden integrar órganos de gobierno y comisiones universitarias.  |
+|**Contratado**| **Nodos Amarillos 🟡** | Los profesores contratados mantienen un vínculo laboral con la PUCP, en las condiciones que fija el respectivo contrato. Durante el período de su contratación tienen derecho a participar en los concursos para plazas de profesor ordinario que la Universidad convoque periódicamente |
 
 
 ![Red de Docentes](network_teachers.png)
