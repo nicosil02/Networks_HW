@@ -22,4 +22,4 @@ En lo que refiere a la producción académica, esta información ha sido extraí
                                                                    |
 
 
-![Red de Docentes](data/boliviaMaps_4326.png)
+![Red de Docentes](Tarea_Networks/network_teachers.png)
