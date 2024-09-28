@@ -5,6 +5,8 @@
 
 Esta tarea consiste en el desarrollo de una red de colaboración académica entre docentes del Departamento Académico de Ciencias Sociales - Sección Ciencia Política de la Pontificia Universidad Católica del Perú. Con "colaboración académica" nos referimos al trabajo conjunto entre docentes para el desarrollo de artículos, libros, capítulos y publicaciones, en la forma de coautorías. 
 
+Las categorías docentes se obtienen progresivamente, de modo que requiere tiempo obtener un contrato de docente ordinario Principal.
+
 ### **Insumos de la base de datos** 📚
 ___
 La información de los docentes ha sido extraída del [Portal del Profesorado de la PUCP](https://www.pucp.edu.pe/profesor/), donde se ha seleccionado exclusivamente a los profesores que forman parte de la "Sección Ciencia Política". 
