@@ -20,6 +20,7 @@ ___
 |**Auxiliar**| **Nodos Rojos**           |  Docentes auxiliares ordinarios, nombrados por un periodo de 3 años. Pueden integrar órganos de gobierno y comisiones universitarias.  |
 |**Contratado**| **Nodos Amarillos** | Los profesores contratados mantienen un vínculo laboral con la PUCP, en las condiciones que fija el respectivo contrato. Durante el período de su contratación tienen derecho a participar en los concursos para plazas de profesor ordinario que la Universidad convoque periódicamente |
 
+
 ![Red de Docentes](network_teachers.png)
 
 ___
