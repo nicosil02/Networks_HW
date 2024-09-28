@@ -3,9 +3,7 @@
 ### Alumno: Nicolas Silva Andujar (20200832)
 ---------------------------------------------------------------------------
 
-Esta tarea consiste en el desarrollo de una red de colaboración académica entre docentes del Departamento Académico de Ciencias Sociales - Sección Ciencia Política de la Pontificia Universidad Católica del Perú. Con "colaboración académica" nos referimos al trabajo conjunto entre docentes para el desarrollo de artículos, libros, capítulos y publicaciones, en la forma de coautorías. 
-
-Las categorías docentes se obtienen progresivamente, de modo que requiere tiempo obtener un contrato de docente ordinario Principal.
+Esta tarea consiste en el desarrollo de una red de colaboración académica entre docentes del Departamento Académico de Ciencias Sociales - Sección Ciencia Política de la Pontificia Universidad Católica del Perú. Con "colaboración académica" nos referimos al trabajo conjunto entre docentes para el desarrollo de artículos, libros, capítulos y publicaciones, en la forma de coautorías.  El trabajo parte de la hipótesis de que los docentes Principales, son quienes han desarrollado mayores redes de colaboración entre ellos. Cada categoría de docencia se obtiene progresivamente, de modo que se asume que los profesores Principales, y más antigüos, han desarrollado un sentido de comunidad así como una red de contactos académicos al interior de la especialidad. 
 
 ### **Insumos de la base de datos** 📚
 ___
